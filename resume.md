@@ -1,6 +1,6 @@
 ---
-title: Resume
+layout: pdf
 permalink: /resume/
 ---
 
-Here is my resume page
+<embed src="/content/resume.pdf" width="100%" height="100%"/>

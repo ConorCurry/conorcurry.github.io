@@ -1,1 +1,6 @@
-Here is my resume pagey
+---
+title: Resume
+permalink: /resume/
+---
+
+Here is my resume page
